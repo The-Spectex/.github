@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Spectex-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/91468921)
 [![Instagram Badge](https://img.shields.io/badge/Spectex-e1306d?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spectex)
-[![Youtube Badge](https://img.shields.io/badge/Spectex-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thespectex)
+[![Youtube Badge](https://img.shields.io/badge/Spectex-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashiqtasdid)
 [![Twitter Badge](https://img.shields.io/badge/The%20Spectex-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheSpectex)
 [![Twitter Badge](https://img.shields.io/badge/Spectex%20Developers-1C2F46?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpectexDev)
 [![Twitter Badge](https://img.shields.io/badge/Minecraft%20Utilities-0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mc_utilities)
