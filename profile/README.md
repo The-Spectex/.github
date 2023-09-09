@@ -41,6 +41,6 @@ Our tech toolbox is vast, and we're always eager to explore new horizons. If you
 
 ## 📞 **Get in Touch**
 
-We're thrilled to connect with fellow tech enthusiasts, collaborators, and potential clients. Whether you have a project in mind, a burning question, or just want to geek out over tech, feel free to [contact us](mailto:contact@spectex.com).
+We're thrilled to connect with fellow tech enthusiasts, collaborators, and potential clients. Whether you have a project in mind, a burning question, or just want to geek out over tech, feel free to [contact us](mailto:support@spectex.xyz).
 
 **Join us on our exhilarating journey to sculpt a tech-powered future!**
